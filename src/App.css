@@ -1,0 +1,33 @@
+.h1{
+  color: rgb(1, 11, 20);
+  margin-left: 30%;
+}
+.main{
+  background-color: rgb(166, 207, 17);
+  margin: 20px;
+  width: 30%;
+  justify-content: center;
+  border-radius: 20px;
+
+}
+.button{
+  background-color: rgb(234, 106, 8);
+  color: black;
+  border-radius: 20px;
+  margin-left: 20px;
+}
+.list{
+  color: rgb(1, 13, 16)
+
+}
+.button1{
+  background-color: orange;
+  margin-left: 130px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+.input{
+  margin-left: 20px;
+  background-color: white;
+  color:black;
+}
